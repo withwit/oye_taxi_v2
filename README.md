@@ -1,6 +1,10 @@
 # oye_taxi_v2
 
+A flutter based Taxi Navigating project backed by Firebase functionalities. 
+
 Check for the version conflicts.
+
+** not for commercial purposes..
 _____________
 
 ## Getting Started
