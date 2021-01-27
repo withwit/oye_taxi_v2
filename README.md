@@ -3,6 +3,10 @@
 A flutter based Taxi Navigating project backed by Firebase functionalities. 
 
 Check for the version conflicts.
+Screenshots:
+
+![Cover](https://drive.google.com/file/d/1Hp76Cq75HPZG4lp0LqFm1lCEMt4E9tsA/view?usp=sharing)
+
 
 ** not for commercial purposes..
 _____________
